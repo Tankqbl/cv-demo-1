@@ -1,0 +1,2 @@
+*{padding:0;margin:0}#bagua-wrapper{height:100vh;box-sizing:border-box;display:flex;align-items:center;justify-content:center;flex-direction:column;position:fixed}#html{word-break:break-all}@media (max-width:500px){#html{overflow:auto}#bagua-wrapper,#html{height:50vh}#bagua{position:relative;top:0;right:-15vw}}
+/*# sourceMappingURL=dist/style.a3ac179a.css.map */
